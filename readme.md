@@ -1,0 +1,5 @@
+- [ ] Greek Language
+- [ ] accept cookies
+- [ ] Choose fonts
+- [ ] images
+- [x] date picker
