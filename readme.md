@@ -1,5 +1,1 @@
-- [ ] Greek Language
-- [ ] accept cookies
-- [ ] Choose fonts
-- [ ] images
-- [x] date picker
+Clone/Download the project and start building your webapp
